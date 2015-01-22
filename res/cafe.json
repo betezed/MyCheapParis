@@ -1,0 +1,26 @@
+[
+
+    {
+        "datasetid":"liste-des-cafes-a-un-euro",
+        "recordid":"9ae92fd79818502c9cb29869a3f5a5ac482a55a0",
+        "fields":{
+            "arrondissement":75012,
+            "nom":"Aux cadrans",
+            "adresse":"21 ter boulevard Diderot",
+            "geo_latitude":[
+                48.8465821,
+                2.3800398
+            ],
+            "prix_comptoir":1
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[
+                2.3800398,
+                48.8465821
+            ]
+        },
+        "record_timestamp":"2014-08-13T21:06:50.137231"
+    }
+
+]

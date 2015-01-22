@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyCheapParis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyCheapParis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyCheapParis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyCheapParis" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="AppEngine API" />
+          <element id="library" level="project" name="gson-2.3" />
+          <element id="library" level="project" name="commons-io-2.4" />
+          <element id="library" level="project" name="commons-lang3-3.3.2" />
+          <element id="library" level="project" name="commons-lang-2.6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

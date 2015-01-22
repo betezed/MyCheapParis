@@ -1,0 +1,28 @@
+[
+
+    {
+        "datasetid":"liste_des_sites_des_hotspots_paris_wifi",
+        "recordid":"ac87e8d20525416fad92a63d7005086af4107966",
+        "fields":{
+            "ville":"PARIS",
+            "adresse_complete":"4, Place De L'Hotel De Ville 75004 PARIS France",
+            "nom_site":"Hotel de Ville (3eme etage)",
+            "adresse":"4, Place De L'Hotel De Ville",
+            "arrondissement":"04",
+            "geo_coordinates":[
+                48.85694,
+                2.35212
+            ],
+            "cp":"75004"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[
+                2.35212,
+                48.85694
+            ]
+        },
+        "record_timestamp":"2014-08-13T20:24:53.623771"
+    }
+
+]
